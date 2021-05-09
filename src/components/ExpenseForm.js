@@ -48,7 +48,6 @@ class ExpenseForm extends React.Component {
 
 
     render() {
-        console.log(this.state.calenderFocused);
         return (
             <div>
                 {this.state.error}
